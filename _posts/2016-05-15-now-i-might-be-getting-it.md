@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Now I might be getting it?
-datePublished: '2016-05-15T18:48:34.343Z'
-dateModified: '2016-05-15T18:48:19.693Z'
+datePublished: '2016-05-15T19:46:07.824Z'
+dateModified: '2016-05-15T19:29:04.362Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
 sourcePath: _posts/2016-05-15-now-i-might-be-getting-it.md
+starred: false
 url: now-i-might-be-getting-it/index.html
 _type: Article
 
