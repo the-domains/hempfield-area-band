@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Is this a new post. I think so.
-datePublished: '2016-05-15T18:48:34.407Z'
-dateModified: '2016-05-15T18:45:43.793Z'
+datePublished: '2016-05-15T19:45:47.892Z'
+dateModified: '2016-05-15T19:29:02.915Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-15-is-this-a-new-post-i-think-so.md
+starred: true
 url: is-this-a-new-post-i-think-so/index.html
 _type: Article
 
