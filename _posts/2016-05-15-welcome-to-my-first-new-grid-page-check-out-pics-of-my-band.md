@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to my first new Grid Page! Check out pics of my band as they perform in Washington, D.C.!'
-datePublished: '2016-05-15T17:55:29.598Z'
-dateModified: '2016-05-15T17:55:08.413Z'
+datePublished: '2016-05-15T18:01:14.635Z'
+dateModified: '2016-05-15T17:55:31.445Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-welcome-to-my-first-new-grid-page-check-out-pics-of-my-band.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-welcome-to-my-first-new-grid-page-check-out-pics-of-my-band.md
 url: welcome-to-my-first-new-grid-page-check-out-pics-of-my-band/index.html
 _type: Article
 
