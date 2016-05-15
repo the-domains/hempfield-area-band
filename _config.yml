@@ -1,6 +1,6 @@
 name: Hempfield Area Band
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.47329
 typography_spectrum: 0.38815
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#447fc3'
-    - '#9cbcdf'
-    - '#ffffff'
-    - '#5f3312'
+    - '#020202'
+    - '#556231'
+    - '#fdc89f'
+    - '#e88b57'
+    - '#1f7bdc'
   brandStrength: 0
-  lightness: 0.6875
+  lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
