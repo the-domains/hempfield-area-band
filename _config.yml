@@ -23,6 +23,6 @@ color:
     - '#e0434c'
   brandStrength: 0.0625
   lightness: 0.5
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
